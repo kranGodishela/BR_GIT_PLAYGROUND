@@ -1,3 +1,4 @@
 var colors={
-  red:"#ff0000"
+  red:"#ff0000",
+  green:"#00ff00"
 };
